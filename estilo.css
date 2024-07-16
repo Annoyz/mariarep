@@ -1,0 +1,122 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+ .container{
+    max-width: 1200px;
+    height: 45px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+ header {
+    background-image: url(amazonia.jpg);
+    width: 100%;
+    background-size: 100;
+    padding: 20px;
+    background-attachment: fixed;
+}
+ p {
+    color: black;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+ html {
+    background-image: url(fundo.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+ h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+ body {
+    background-color: #FFFFFF;
+    padding: 0xp 0p 0xp ;
+}
+ img {
+    display: block;
+}
+ .sociais{
+    width: 25%;
+}
+
+.logo img{
+    width: 75px;
+    cursor: pointer;
+}
+ .menu{
+    width: 50%;  
+}
+ .menu nav a {
+    margin-left: 0;
+    color: #ffffff;
+    text-decoration: none;
+    padding-right: px;
+    font-size: 30px;
+}
+ .sociais button {
+    width: 20px;
+    height: 20px;
+    background-image: linear-gradient(45deg, #000000, #0fa50a);
+    border: none;
+    margin-right: 10px;
+}
+ .sociais button i{
+    font-size: 10px;
+    color: #ffffff;
+}
+  a{
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+  }
+section{
+    background-image: url(fundo.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div.texto2{
+    background-color: #FFFFFF;
+    width: 850px;
+    margin: auto;
+}
+div.imagemtexto{
+    width: 1000px; 
+  display:flex;
+  margin: auto;
+}
+div.texto{
+    flex: 1;
+}
+div.imagemtexto{
+    margin-top: 15px;
+    margin-left: 250px;
+}
+img.imagem{
+    margin: auto;
+}
+div.texto1{
+    background-color: #FFFFFF;
+    width: 500px;
+    flex: 60%;
+}
+
